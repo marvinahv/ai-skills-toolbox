@@ -131,7 +131,7 @@ Contributions are welcome. Please open an issue to discuss what you'd like to ch
 
 MIT License
 
-Copyright (c) 2026
+Copyright (c) 2026 Marvin Alejandro Herrera Vizuett
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
